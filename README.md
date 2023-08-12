@@ -28,6 +28,7 @@ Questions
   11. What is the tenure distribution for each department?
 
 Summary of Findings
+ 
  1.There are more male employees
 
  2.White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
@@ -51,6 +52,7 @@ Summary of Findings
   11.The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
 Limitations
+   
    1.Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 
    2.Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
