@@ -1,6 +1,11 @@
 # HR-DASHBOARD-MYSQL-POWERBI
 
-        HR Dashboard isa visual representation of key metrics and data that provide a comprehensive overview of an organization Human Resources performance. it allows HR professionals and decision-makers to monitor and analyze important HR indicators suchus recruitment metrics, employee turnover,development progress and workforce demographics. The dashboard presents this information in user-friendly format, often through charts, graphs, tables, enabling HR teams to make data-driven decisions and track the effective of their HR strategies. 
+       <h3 align="center">HR Dashboard isa visual representation of key metrics and data that provide a comprehensive overview of an organization Human Resources performance. it allows HR professionals and decision-makers to monitor and analyze important HR indicators suchus recruitment metrics, employee turnover,development progress and workforce demographics. The dashboard presents this information in user-friendly format, often through charts, graphs, tables, enabling HR teams to make data-driven decisions and track the effective of their HR strategies.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+ 
 
 Technology Used
          Data Cleaning & Analysing: MYSQL Workbench
