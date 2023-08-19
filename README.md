@@ -1,6 +1,8 @@
 # HR-DASHBOARD-MYSQL-POWERBI
  
    HR professionals and decision-makers to monitor and analyze important HR indicators such as recruitment metrics.
+
+
 Technology Used
  Data Cleaning & Analysing: MYSQL Workbench
  
